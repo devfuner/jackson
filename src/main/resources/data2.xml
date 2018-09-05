@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<items>
+    <item>
+        <field1>field1</field1>
+        <field2>field2</field2>
+        <field3>field3</field3>
+        <field4>field4</field4>
+    </item>
+    <item>
+        <field1>field1</field1>
+        <field2>field2</field2>
+        <field3>field3</field3>
+        <field4>field4</field4>
+    </item>
+    <item>
+        <field1>field1</field1>
+        <field2>field2</field2>
+        <field3>field3</field3>
+        <field4>field4</field4>
+    </item>
+</items>

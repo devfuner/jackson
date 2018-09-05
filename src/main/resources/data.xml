@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<response>
+    <header>
+        <resultCode>0000</resultCode>
+        <message>성공</message>
+    </header>
+    <body>
+        <items>
+            <item>
+                <field1>1</field1>
+                <field2>2</field2>
+                <field3>3</field3>
+                <field4>4</field4>
+            </item>
+            <item>
+                <field1>5</field1>
+                <field2>6</field2>
+                <field3>7</field3>
+                <field4>8</field4>
+            </item>
+            <item>
+                <field1>9</field1>
+                <field2>10</field2>
+                <field3>11</field3>
+                <field4>12</field4>
+            </item>
+        </items>
+    </body>
+</response>
